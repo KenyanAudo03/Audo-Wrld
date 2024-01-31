@@ -1,2 +1,2 @@
-# Audo-Wrld
-All coding
+# Quote
+"Coding like poetry should be short and concise"
